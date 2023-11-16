@@ -14,4 +14,4 @@ jobs:
       - name: Semantic Release
         uses: cycjimmy/semantic-release-action@v4
         env:
-          GITHUB_TOKEN: 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
+          PERSONAL_ACCESS_TOKEN: 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
