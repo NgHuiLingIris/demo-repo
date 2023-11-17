@@ -1,4 +1,7 @@
 {
+  "name": "test-package",
+  "version": "1.0.0",
+  "description": "Your package description",
   "devDependencies": {
     "semantic-release": "^22.0.8"
   }
